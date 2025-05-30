@@ -30,3 +30,20 @@ table {
 th, td {
     background-color: aqua;
 }
+
+.test {
+    transform: rotate(90deg);
+    width: 100px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.butb {
+    border-bottom-color: aqua;
+}
+
+.clsup {
+    background-color: white;
+}
