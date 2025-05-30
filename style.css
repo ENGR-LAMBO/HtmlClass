@@ -29,21 +29,22 @@ table {
 
 th, td {
     background-color: aqua;
+    /* padding: 15px */
 }
 
 .test {
-    transform: rotate(90deg);
-    width: 100px;
-    height: 80px;
+    transform: rotate(-90deg);
+    width: 70px;
+    /* height: 80px; */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.butb {
+/* .butb {
     border-bottom-color: aqua;
 }
 
 .clsup {
     background-color: white;
-}
+} */
